@@ -1,3 +1,10 @@
+# Hi There, I'm Lucas Mancini 👋
+
+- 🔭 I’m currently working with Education, Science and Biology
+- 🌱 I’m learning about Front-end Web Development
+- 👯 I’m looking to expand my networking and getting ready to enter the dev market
+- 💬 Ask me about `[HTML5, CSS, JavaScript, React]` 
+
 
 <div>
   <a href="https://github.com/mancinilucas">
