@@ -7,8 +7,8 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=false&disable_animations=false&theme=cobalt2&locale=en&hide_border=false&custom_title=mancinilucas&username=mancini" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=default &card_width=320&langs_count=5&theme=cobalt2&hide_border=false&username=mancini" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=false&disable_animations=false&theme=cobalt2&locale=en&hide_border=false&custom_title=mancinilucas&username=mancinilucas" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=cobalt2&hide_border=false&username=mancinilucas" height="150" alt="languages graph"  />
 </div>
 
 ###
@@ -36,7 +36,7 @@
 ###
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/mancini/count.svg?"  />
+  <img src="https://profile-counter.glitch.me/mancinilucas/count.svg?"  />
 </div>
 
 ###
