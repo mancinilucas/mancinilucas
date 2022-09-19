@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I’m learning about Front-end Web Development<br>I’m looking to expand my networking<br>Ask me about [HTML5, CSS, JavaScript, React]</p>
+<p align="left">I’m learning about Web Development<br>I’m looking to expand my networking<br>Ask me about [HTML5, CSS, JavaScript, React, Node]</p>
 
 ###
 
