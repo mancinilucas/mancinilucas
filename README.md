@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Java and Spring Framework**
 
-- 💬 Ask me about **Html, CSS, Javascript, React**
+- 💬 Ask me about **Java, Spring Framework, Html, CSS, Javascript, React**
 
 - 📫 How to reach me **mancini.lucasg@gmail.com**
 
