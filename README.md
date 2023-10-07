@@ -16,6 +16,7 @@
 
 ### Contact 
 - 📫 Email: mancini.lucasg@gmail.com
+- 📝 Blog: [dev.to](https://dev.to/lmancini)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
