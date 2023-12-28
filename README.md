@@ -4,12 +4,12 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mancinilucas&label=Profile%20views&color=0e75b6&style=flat" alt="mancinilucas" /> </p>
 
 
-- :mortar_board: Graduation : System Analyst (3/5)
-- :mortar_board: I'm studyng : `Spring Framework`, `Python` 
+- :mortar_board: Graduation : System Analyst (4/5)
+- :mortar_board: I'm studyng : `Spring Framework`, `.NET` 
 
 ### Current Stack
-- Main Language: `Java`, `JavaScript`, `Python`
-- Back-End: `Spring Framework`, `MySQL`, `PostgreSQL`, `MongoDB`, `Hibernate`
+- Main Language: `Java`, `JavaScript`, `C#`
+- Back-End: `Spring Framework`, `MySQL`, `PostgreSQL`, `MongoDB`, `Hibernate`, `.NET`
 - Front-End: `HTML`, `CSS`, `SASS`, `Javascript`, `React`
 - Tolls: `IntelliJ`, `Vscode`
 - Version Controls: `Git & Github`
