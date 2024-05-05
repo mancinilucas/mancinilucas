@@ -7,7 +7,6 @@
 ## My name is Lucas Mancini
 - 💻 (Java | Spring Boot | HTML | CSS | Javascript ) 
 - 👩‍💻 Open-source collaboration, volunteer and freelance work
-- 📱I talk about technology in [Instagram](https://www.instagram.com/lgm.dev/).
 - 🎓 Systems Analyst and Developer `4/5` 
 - 🌐 Passionate about web development
 
