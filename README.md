@@ -5,14 +5,14 @@
 [![Gmail Badge](https://img.shields.io/badge/-mancini.lucasg@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&labelColor=blue&color=blue&link=mailto:mancini.lucasg@gmail.com)](mailto:mancini.lucasg@gmail.com)
 
 ## My name is Lucas Mancini
-- 💻 (Java | Spring Boot | HTML | CSS | Javascript ) 
-- 👩‍💻 Open-source collaboration, volunteer and freelance work
-- 🎓 Systems Analyst and Developer `4/5` 
+- 💻 (Python | Java | Spring Boot | HTML | CSS | Javascript ) 
+- 👩‍💻 software resident, volunteer and freelance work
+- 🎓 Systems Analyst and Developer `5/5` 
 - 🌐 Passionate about web development
 
 
 <div align="left">
   
-[![Kipper top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mancinilucas&theme=apprentice)](https://github.com/anuraghazra/github-readme-stats)
+[![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mancinilucas&theme=apprentice)](https://github.com/anuraghazra/github-readme-stats)
   
  </div>
