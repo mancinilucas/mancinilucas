@@ -7,7 +7,7 @@
 ## My name is Lucas Mancini
 - 💻 ( Java | Spring Boot | Python | Django | HTML | CSS | Javascript ) 
 - 👩‍💻 software resident, volunteer and freelance work
-- 🎓 Systems Analyst and Developer `5/5` 
+- 🎓 Systems Analyst and Developer 
 - 🌐 Passionate about web development
   
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mancinilucas&theme=darcula)
