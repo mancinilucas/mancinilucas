@@ -10,9 +10,6 @@
 - 🎓 Systems Analyst and Developer 
 - 🌐 Passionate about web development
   
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mancinilucas&theme=darcula)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mancinilucas&theme=darcula)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mancinilucas&theme=darcula)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mancinilucas&theme=darcula)
+
 
 
