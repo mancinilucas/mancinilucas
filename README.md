@@ -6,7 +6,7 @@
 
 ## My name is Lucas Mancini
 - 💻 ( Java | Spring Boot | Node | Typescript ) 
-- 👩‍💻 Software resident, volunteer and freelance work
+- 👩‍💻 Fullstack Software Developer | Backend Developer | Volunteer | Freelance Work
 - 🎓 Systems Analyst and Developer 
 - 🌐 Passionate about web development
   
