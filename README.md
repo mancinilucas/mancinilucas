@@ -5,7 +5,7 @@
 [![Linktree Badge](https://img.shields.io/badge/-linktree-6633cc?style=flat-square&logo=Linktree&logoColor=white&labelColor=blue&color=blue&link=https://linktr.ee/mancinilucas)](https://linktr.ee/mancinilucas)
 
 ## My name is Lucas Mancini
-- 💻 ( Java | Spring Boot | Javascript ) 
+- 💻 ( Java | Spring Boot | Node | Typescript ) 
 - 👩‍💻 Software resident, volunteer and freelance work
 - 🎓 Systems Analyst and Developer 
 - 🌐 Passionate about web development
